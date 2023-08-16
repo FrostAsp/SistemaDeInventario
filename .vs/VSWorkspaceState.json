@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaInventario",
+    "\\SistemaInventario\\Areas",
+    "\\SistemaInventario\\Areas\\Admin",
+    "\\SistemaInventario\\Areas\\Admin\\Views",
+    "\\SistemaInventario\\Areas\\Admin\\Views\\Bodega",
+    "\\SistemaInventario\\Areas\\Inventario\\Controllers"
+  ],
+  "SelectedNode": "\\SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
